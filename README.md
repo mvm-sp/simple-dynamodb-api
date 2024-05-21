@@ -1,10 +1,6 @@
 # simple-dynamodb-api
 API to manage a DynamoDB Table
 
-# DynamoDB Python API
-
-This project provides a Python API to manage a DynamoDB table using the `boto3` library. The API supports creating, reading, updating, deleting, and listing tutorials.
-
 ## Setup
 
 1. Clone the repository:
